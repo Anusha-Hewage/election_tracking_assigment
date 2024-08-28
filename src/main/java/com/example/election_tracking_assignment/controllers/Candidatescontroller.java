@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class Candidatescontroller {
 
     @PostMapping
-    public void candidatescontroller(){
+    public void candidatesRegistration(){
 
     }
 }
